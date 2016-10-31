@@ -1,0 +1,50 @@
+/* add your CSS here */
+
+div{
+  display: block;
+}
+body{
+ align-content: center;
+}
+
+.principal{
+  border-style: solid;
+  border-color: #d7e1e5;
+  border-width: 1px;
+  width: 300px;
+  height: 580px;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow: 10px 10px 5px grey;
+}
+.Animal_information{
+  border-style: solid;
+  border-color: #d7e1e5;
+  border-width: 1px;
+  padding: 10px;
+
+}
+.imagem_card{
+  width: 300px;
+  height: 200px;
+  padding-bottom: 10px;
+  align-content: center;
+}
+.interesting_fact{
+  font-style: italic;
+  font-size: small;
+
+}
+.list_items{
+  list-style:none;!important;
+  font: small;
+  -webkit-padding-start: 0px;
+}
+
+.description{
+  font-size: small;
+  padding: 4px;
+  text-align: justify;
+}
